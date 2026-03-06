@@ -38,7 +38,7 @@
 
 I'm currently building my professional online presence. Stay tuned!
 
-* **LinkedIn:** [Coming Soon](#) 
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josesirver)
 * **Portfolio:** [Under Construction](#)
 * **Email:** [lectoresgod1@gmail.com](mailto:lectoresgod1@gmail.com)
 
